@@ -1,6 +1,6 @@
 # Software Testing Fundamental
 
-## SOftware Testing
+## Software Testing
 
 #### Manfaat software Testing :
 
