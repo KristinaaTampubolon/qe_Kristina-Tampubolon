@@ -2,10 +2,9 @@
 
 ## SDLC
 
-- Pengertian SDLC
-  SDLC adalah proses yang digunakan untuk merancang, mengembangkan serta menguji kualitas software.
+SDLC adalah proses yang digunakan untuk merancang, mengembangkan serta menguji kualitas software.
 
-- Tujuan SDLC
+## Tujuan SDLC
 
 1. Menyediakan alur terstruktur dalam membantu organisasi menghasilkan produk yang berkualitas tinggi.
 2. Menciptakan produk dengan perkiraan waktu yang singkat dengan biaya yang rendah.
@@ -20,7 +19,7 @@
 2. Mengantisipasi adanya pengerjaan ulang atau perbaikan setelah proses pembangunan software berhasil dilakukan.
 3. SDLC adalah metode berulang sehingga perlu diperhatikan pada setiap langkah setiap kualitas code yang ada di setiap siklus.
 
-####Tahap dalam SDLC
+#### Tahap dalam SDLC
 
 1. Requirement Gathering
    Pada tahap ini sistem akan dianalisis bagaimana akan dijalankan nantinya. Hasil analisis berupa kelebihan dan kekurangan sistem, fungsi sistem hingga pembaharuan yang dapat diterapkan. Bagian ini termasuk bagian perencanaan. Bagian lain yang termasuk bagian perencanaan adalah alokasi sumber daya, perancanaan kapasitas, penjadwalan proyek, estimasi biaya, dan penetapan. Dengan demikian, hasil dan tahap ini ialah rencana proyek, estimasi biaya, dan ketentuan. Idealnya manajer proyek dan developer dapat bekerja maksimal pada tahap ini.
@@ -86,22 +85,15 @@
 ### 5 Kunci dalam Testing Manifesto
 
 1. Testing is an activity not a phase
-   Kalau kita melihat proses development yang lama (mungkin dari kita masih ada yang menggunakan), dapat kita lihat proses testing aplikasi dilakukan di akhir proses development. Dengan cara lama tersebut seorang tester akan kewalahan di akhir proses development karena dia harus melakukan full test aplikasi yang belum pernah dia test sebelumnya. Dalam testing manifesto tester dianjurkan untuk melakukan testing beriringan dengan proses development, jadi tidak terpisah atau membentuk fase sendiri melainkan jadi satu dengan proses development.
-
 2. Prevent bugs rather than finding bugs
-   Hal yang penting pada saat proses pembangunan adalah mencegah bugs daripada menemukan bug oleh karena itu sesama tim harus bekerja sama dengan baik agar aplikasi yang diciptakan baik dengan melakukan proses requirement gathering yang detail dan lengkap agar pada saat proses pembangunan kesalahan dapat diminimalisir sekecil mungkin.
-
 3. Don't be a checker, be a tester
-   Sebagai seorang tester, tidaklah cukup jika hanya melakukan testing tanpa adanya improvement / masukan terhadap apa yang test. Jika seorang tester hanya melakukan pengecekan fungsional dan tidak memahami seperti apa kebutuhan user yang akan menggunakan aplikasi maka peran seorang tester akan dipertanyakan ketika semua test sudah otomatis. Disinilah peran tester sebenarnya dibutuhkan, bagaimana dia bisa memberikan feedback terhadap apa yang sedang di test.
-
 4. Don't try to break the system, instead help build the best possible system
-   Di dalam proses testing, seorang QA akan melakukan positif test dan negative test. Seorang QA yang baik adalah mengingat tujuan utama dari proses development tersebut bukan untuk menemukan keburukan sehingga untuk menciptakan software yang berkualitas maka seorang QA harus memberikan saran sebaik mungkin kepada Developer agar proses pengembangan software berjalan dengan lancar.
 5. The whole team is responsible for quality, not just the tester
-   Mengingat tanggung jawab seluruh tim untuk kualitas adalah prinsip dasar Agile. Beban dari kualitas product yang dibangun tidak semestinya dibebankan pada salah satu anggota saja. Misalnya ada bug yang baru ditemukan saat product sudah launcing, tidak semerta-merta tanggung jawab itu dibebankan pada seorang QA yang mungkin tidak teliti atas bug tersebut, bukan juga dengan membebankan developer. Namun setiap anggota tim bertanggung jawab berlandaskan kepemilikan bersama atas product yang dibangun.
 
 ## Testing Pyramid
 
-Testing Pyramid adalah strategi yang dapat membantu tim Pengembangan dan Otomasi membuat perangkat lunak pengujian berkualitas tinggi dan andal. Ini mengurangi waktu yang dibutuhkan tim untuk mengidentifikasi apakah perubahan yang mereka lakukan merusak sistem dengan menawarkan umpan balik langsung. Testing pyramid yang beroperasi pada tiga tingkat membantu mengurangi jumlah waktu yang dihabiskan tim otomatisasi dalam pelaksanaan test case dengan mengkategorikan setiap fitur baru ke dalam satu atau semua test.
+Testing Pyramid : strategi yang dapat membantu tim Pengembangan dan Otomasi membuat perangkat lunak pengujian berkualitas tinggi dan andal.
+Ini mengurangi waktu yang dibutuhkan tim untuk mengidentifikasi apakah perubahan yang mereka lakukan merusak sistem dengan menawarkan umpan balik langsung. Testing pyramid yang beroperasi pada tiga tingkat membantu mengurangi jumlah waktu yang dihabiskan tim otomatisasi dalam pelaksanaan test case dengan mengkategorikan setiap fitur baru ke dalam satu atau semua test.
 
 ### Level Testing Pyramid
 
@@ -116,61 +108,4 @@ Integration testing adalah pengujian dari hasil penggabungan unit yang ada di da
 #### UI Test (end-to-end test)
 
 UI test adalah yang paling dekat dengan interaksi pengguna pada aplikasi web atau android atau ios. User input harus memicu tindakan yang tepat, data harus disajikan kepada pengguna, status UI harus berubah seperti yang diharapkan. Ini adalah testing dengan tingkatan tertinggi. Dengan menggunakan alat atau kerangka kerja, uji E2E memberi tahu browser apa yang harus dilakukan, klik, ketik, dan kemudian harapkan perilaku aplikasi berdasarkan tindakan. Adalah baik untuk memiliki cakupan penuh dengan tes unit dan integrasi.
-Kesimpulan Testing Pyramid:
-
-1. Semakin tinggi level yang Anda dapatkan, semakin sedikit tes yang harus Anda lakukan.
-2. Tulis tes dengan tingkat detail yang berbeda.
-3. Bahkan kami dapat menampilkan semua aplikasi dan koneksi dari ujung ke ujung untuk diuji. Tetapi kami tidak dapat menguji semua gaya atau apakah UI cocok dengan desain. Itulah mengapa tes tingkat tinggi harus fokus pada skenario penting.
-
-## TASK
-
-1. Pada fase apa saja QE berperan pada proses SDLC? Sebutkan dan jelaskan peran seperti apa yang QE dapat lakukan pada setiap fase tersebut!
-   Jawab :
-   Dalam setiap tahapan yang ada di dalam SDLC QE berperan
-   Ada 2 tahapan yang terdapat pada fase SDLC antara lain:
-
-   1. Requirements Gathering
-      Pada tahap Requirements Gathering merupakan tahap perencaaan dalam mengidentifikasi dan menentukan scope serta ruang lingkup pemgembangan proyek,
-      QE berperan untuk menentukan beberapa langkah yang akan dilakukan pada tahap planning untuk memperkirakan resiko yang akan datang ke depannya , serta menganalisis kebutuhan user
-      agar sistem yang akan dibangun akan dapat memenuhi kebutuhan client. Jika proses Requirement Gathering baik dilaksanakan maka proses selanjutnya akan berjalan dengan baik.
-
-   2. Design
-      Pada tahap ini adalah membangun desain yang sudah dirancang pada proses requirement gathering, dimana QE berperan menganalisa desain yang dibangun oleh seorang UI/UX apakah sudah baik (Hall of Fame) dan apakah desain yang sudah dirancang memenuhi syarat untuk dipakai.
-
-   3. Development(Code)
-      Pada tahap Devekopment adalah tahap pengembangan software dimana software yang telah dirancang dan didesain akan dibangun dengan menggunakan teknologi serta bahasa pemograman yang dipilih.
-      Tahap development adalah tahap terlama dalam proses SDLC, dalam proses pengembangan QA sudah dapat merancang test case yang kemungkinan akan digunakan serta dapat mencek beberapa fungsi yang
-      sudah dibangun, jika ada sesuatu seperti code yang dicurigai kurang vulnerable dan masih ada fungsi yang error maka QA dan Developer harus bekerjasama untuk memperbaiki fungsi yang sedang dibangun agar proses kedepannya menjadi lebih baik dan menghindari
-      bug yang akan terjadi pada saat software selesai dibangun.
-
-   4. Testing
-      Pada tahap ini QE akan mengeksekusi test case yang sudah dirancang sebelumnya test case yang dibuat terdiri dari dua yaitu positif dan negatif, dimana test case yang sudah dieksekusi didokumentasikan.
-      Seorang QE juga harus menguji keseluruhan dari software yang dibangun seperti kemudahan penggunaan sampai pencapaian tujuan dari sistem yang sudah disusun sejak perancangan sistem dilakukan.
-
-   5. Deployment
-      Pada tahapan Deployment seorang QA harus memastikan apakah semua test case dan pengujian yang sudah dilakukan pada proses testing sudah berjalan dengan baik dan semua kegiatan sudah dilakukan.
-
-   6. Maintenance
-      Pada tahap Maintenance akan ada bug yang ditemukan oleh user maupun QA pada saat software sudah digunakan. Ketika ditemukan bugs yang tidak diprediksikan pada tahap testing,
-      maka seorang developer akan memperbaiki bugs yang ditemukan tersebut, kemudian seorang QE juga harus membuat test case yang mungkin ada baik bersifat positif maupun negatif kemudian mengeksekusi test case tersebut.
-
-2. Menurut teman-teman apa tantangan ketika menerapkan agile testing? Berikan penjelasan masing-masing
-   5 poin agile testing manifesto!
-
-   1. Testing is an activity not a phase
-      Tantangan pada poin ini adalah masih banyak pola pikir Quality Assurance yang menilai bahwa testing dilakukan pada saat aplikasi sudah siap dibangun, dan jika ada error yang terjadi saat aplikasi dipakai
-      maka itu adalah tugas developer , pada poin ini seorang Quality Assurance harus memiliki pola pikir bahwa proses testing harus dilakukan pada setiap tahap SDLC agar kualitas mutu pembangunan software berjalan
-      dengan baik.
-
-   2. Prevent bugs rather than finding bugs
-      Tantangan pada poin adalah lebih sulit menentukan atau memperkirakan kemungkinan bugs yang terjadi tantangan disini adalah quality assurance harus berpikir kritis dalam menentukan bugs yang akan terjadi.
-
-   3. Don't be a checker, be a tester
-      Tantangan pada poin ini adalah mindset quality assurance bukan hanya mengtest tetapi harus mengetahui kebutuhan user dalam menggunakan aplikasi tersebut.
-
-   4. Don't try to break the system, instead help build the best possible system
-      Tantangan pda poin ini adalah menciptakan test case sebanyak mungkin yang dimana goal utamanya adalah menemukan bugs
-      dan QA harus mampu memposisikan diri sebagai orang awam yang mencoba software tersebut.
-
-   5. The whole team is responsible for quality, not just the tester
-      Tantangan pada poin ini adalah seorang QA juga harus dapat memberikan saran mengenai kualitas suatu software tidak hanya mentest sofware tersebut.
+Kesimpulan Testing Pyramid
