@@ -1,4 +1,5 @@
 public class A_1_LuasSegitiga {
+    
     public static void main(String[] args) {
         //input
         float alas = 20;
