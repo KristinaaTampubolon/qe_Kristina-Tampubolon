@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="UTF-8" />
+    <title>Halaman Web Sederhana Kristina Tampubolon</title>
+  </head>
+  <body>
+    <h1>Buat Account Baru!</h1>
+    <h2>Sign Up Form</h2>
+    <form action="login.php" method="POST">
+      <div>
+        <label>First name:</label>
+        <br />
+        <input type="text" name="username" />
+      </div>
+
+      <br />
+
+      <div>
+        <label>Last name:</label>
+        <br />
+        <input type="text" name="username" />
+      </div>
+
+      <br />
+
+      <div>
+        <label for="">Gender:</label>
+        <div><input type="radio" name="jenis_kelamin" value="Male" />Male</div>
+        <div><input type="radio" name="jenis_kelamin" value="Female" />Female</div>
+        <div><input type="radio" name="jenis_kelamin" value="Other" />Other</div>
+        <br />
+      </div>
+
+      <div>
+        <label>Nationality:</label>
+        <br />
+        <select name="nationality">
+          <option value="Indonesian">Indonesian</option>
+          <option value="Korean">Korean</option>
+          <option value="China">China</option>
+          <option value="Japanese">Japanese</option>
+        </select>
+      </div>
+
+      <br />
+
+      <div>
+        <label>Language Spoken:</label>
+        <div><input type="checkbox" name="L1" value="cc" />Indonesia</div>
+        <div><input type="checkbox" name="L2" value="cc" />English</div>
+        <div><input type="checkbox" name="L3" value="cc" />Other</div>
+        <br />
+      </div>
+
+      <div>
+        <label>Bio:</label>
+        <br />
+        <textarea name="bio" rows="8" cols="40"></textarea>
+      </div>
+
+      <a href="welcome.html"><input type="button" value="Sign Up" /></a>
+    </form>
+  </body>
+</html>
