@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LoginImageTitleAuthorPublisherGit Pocke_58d525</name>
+   <tag></tag>
+   <elementGuidId>39306c2e-7ee2-40e7-85ab-070da9859b70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-12.mt-4.col-md-6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1ca59ffb-d7d4-4b04-a79a-358b781fedf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-12 mt-4 col-md-6</value>
+      <webElementGuid>a36701dd-78cd-4ac5-91c2-a9a10ee7e9bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LoginImageTitleAuthorPublisherGit Pocket Guide Richard E. SilvermanO'Reilly MediaLearning JavaScript Design Patterns Addy OsmaniO'Reilly MediaDesigning Evolvable Web APIs with ASP.NET Glenn Block et al.O'Reilly MediaSpeaking JavaScript Axel RauschmayerO'Reilly MediaYou Don't Know JS Kyle SimpsonO'Reilly MediaProgramming JavaScript Applications Eric ElliottO'Reilly MediaEloquent JavaScript, Second Edition Marijn HaverbekeNo Starch PressUnderstanding ECMAScript 6 Nicholas C. ZakasNo Starch Press        PreviousPage  of 15 rows10 rows20 rows25 rows50 rows100 rowsNextLoading...</value>
+      <webElementGuid>d8bc02b4-b968-411b-b700-98a4f1df8ecf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;body-height&quot;]/div[@class=&quot;container playgound-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 mt-4 col-md-6&quot;]</value>
+      <webElementGuid>ba79ebff-b99c-46e1-8b18-a401b223bee1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div[2]</value>
+      <webElementGuid>397b9cc0-29e9-4e7e-b3a0-78beff05101a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book Store API'])[1]/following::div[1]</value>
+      <webElementGuid>167edf2f-3c9a-4312-a492-41fe4644dfd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::div[1]</value>
+      <webElementGuid>0c35c30f-e34e-40c3-9963-cc1a5528df44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>36b04bc5-310e-47cf-87a1-0c5418d2b418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;LoginImageTitleAuthorPublisherGit Pocket Guide Richard E. SilvermanO&quot; , &quot;'&quot; , &quot;Reilly MediaLearning JavaScript Design Patterns Addy OsmaniO&quot; , &quot;'&quot; , &quot;Reilly MediaDesigning Evolvable Web APIs with ASP.NET Glenn Block et al.O&quot; , &quot;'&quot; , &quot;Reilly MediaSpeaking JavaScript Axel RauschmayerO&quot; , &quot;'&quot; , &quot;Reilly MediaYou Don&quot; , &quot;'&quot; , &quot;t Know JS Kyle SimpsonO&quot; , &quot;'&quot; , &quot;Reilly MediaProgramming JavaScript Applications Eric ElliottO&quot; , &quot;'&quot; , &quot;Reilly MediaEloquent JavaScript, Second Edition Marijn HaverbekeNo Starch PressUnderstanding ECMAScript 6 Nicholas C. ZakasNo Starch Press        PreviousPage  of 15 rows10 rows20 rows25 rows50 rows100 rowsNextLoading...&quot;) or . = concat(&quot;LoginImageTitleAuthorPublisherGit Pocket Guide Richard E. SilvermanO&quot; , &quot;'&quot; , &quot;Reilly MediaLearning JavaScript Design Patterns Addy OsmaniO&quot; , &quot;'&quot; , &quot;Reilly MediaDesigning Evolvable Web APIs with ASP.NET Glenn Block et al.O&quot; , &quot;'&quot; , &quot;Reilly MediaSpeaking JavaScript Axel RauschmayerO&quot; , &quot;'&quot; , &quot;Reilly MediaYou Don&quot; , &quot;'&quot; , &quot;t Know JS Kyle SimpsonO&quot; , &quot;'&quot; , &quot;Reilly MediaProgramming JavaScript Applications Eric ElliottO&quot; , &quot;'&quot; , &quot;Reilly MediaEloquent JavaScript, Second Edition Marijn HaverbekeNo Starch PressUnderstanding ECMAScript 6 Nicholas C. ZakasNo Starch Press        PreviousPage  of 15 rows10 rows20 rows25 rows50 rows100 rowsNextLoading...&quot;))]</value>
+      <webElementGuid>ea13a3d8-ed63-493a-beb4-f58ee9a975bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
