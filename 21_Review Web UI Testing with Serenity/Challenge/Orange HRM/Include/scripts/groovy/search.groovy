@@ -43,33 +43,51 @@ import cucumber.api.java.en.When
 
 
 
-class searchSteps {
-	/**
-	 * The step definitions below match with Katalon sample Gherkin steps
-	 */
-	@Given("User navigates to landingpage")
-	def navigateToLandingPage() {
-		println("\n Iam inside to home page")
+class search {
+	@Given ("User navigates to login page")
+	def navigateToLoginPage() {
+		println("\n I am inside navigate to login page")
 		WebUI.openBrowser('')
 
-		WebUI.navigateToUrl('https://demoqa.com/books')
+		WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
 
 		WebUI.maximizeWindow()
 
-		WebUI.verifyElementPresent(findTestObject('Page_ToolsQA/div_Book Store'), 3)
+		WebUI.verifyElementPresent(findTestObject('login/img'), 0)
 	}
 
-	@When("User enters (.*)")
-	def enterTitle(String title) {
-		println("\n I am inside enterTitle")
-		WebUI.setText(findTestObject('Object Repository/Page_ToolsQA/input_Book Store API_searchBox'), title)
+	@When ("User enters (.*) and (.*)")
+	def enterCredentials(String username, String password) {
+		println("\n I am inside enterCredentials")
+		println("UserName : "+username)
+		println("Password : "+password)
+		WebUI.setText(findTestObject('Object Repository/login/input_Username_username'), username)
+
+		WebUI.setEncryptedText(findTestObject('Object Repository/login/input_Password_password'), password)
+	}
+	@And ("Click on login button")
+	def clickLogin() {
+		println("\n I am inside clickLogin")
+		WebUI.click(findTestObject('Object Repository/login/button_Login'))
 	}
 
-	@Then("System displaying a book with appropriate title")
-	def verifyBook() {
-		println("\n I am inside list book")
-		WebUI.verifyElementPresent(findTestObject('Page_ToolsQA/div_LoginImageTitleAuthorPublisherGit Pocke_58d525'), 1)
 
-		WebUI.closeBrowser()
+	@Then ("User is navigated to homepage")
+	def verifyHomePage() {
+		println("\n I am inside home page")
+		WebUI.verifyElementPresent(findTestObject('login/span_PIM'), 0)
+	}
+
+	@When ("User enters (.*)")
+	def enterMenu(String menu) {
+		println("\n I am inside search menu")
+		println("menu : "+menu)
+		WebUI.setText(findTestObject('Object Repository/Search/Page_OrangeHRM/input_Admin_oxd-input oxd-input--focus'), menu)
+	}
+
+	@Then ("User should find menu in the search table")
+	def verifySearch() {
+		println("\n I am inside search table")
+		WebUI.closeBrowser(FailureHandling.STOP_ON_FAILURE)
 	}
 }

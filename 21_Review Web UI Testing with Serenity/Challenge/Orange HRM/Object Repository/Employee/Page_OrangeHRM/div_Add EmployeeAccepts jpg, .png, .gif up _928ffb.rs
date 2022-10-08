@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add EmployeeAccepts jpg, .png, .gif up _928ffb</name>
+   <tag></tag>
+   <elementGuidId>0a704681-3263-4765-ae3b-6c43fdf308ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-background-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0b3fb72a-bb0a-4e94-bcef-66b4a0d64ea7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-background-container</value>
+      <webElementGuid>c96f772e-46a7-4004-9bfb-d9c4da71b82c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add EmployeeAccepts jpg, .png, .gif up to 1MB. Recommended dimensions: 200px X 200pxEmployee Full NameEmployee IdCreate Login Details * Required Cancel  Save </value>
+      <webElementGuid>674a6412-7f22-4030-b784-364aa62dcbbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]</value>
+      <webElementGuid>2fd06386-bc0c-4a72-bd86-fb0e1fef55a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      <webElementGuid>40340227-c97a-4874-88cc-2450a879128a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configuration'])[1]/following::div[4]</value>
+      <webElementGuid>4d0f90fd-5ee6-4565-9e1d-b30dcc62ba9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>9d388ada-d2b6-4d42-bcd5-ff387525bdf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Add EmployeeAccepts jpg, .png, .gif up to 1MB. Recommended dimensions: 200px X 200pxEmployee Full NameEmployee IdCreate Login Details * Required Cancel  Save ' or . = 'Add EmployeeAccepts jpg, .png, .gif up to 1MB. Recommended dimensions: 200px X 200pxEmployee Full NameEmployee IdCreate Login Details * Required Cancel  Save ')]</value>
+      <webElementGuid>c331406c-4085-49eb-9a96-ddd96da6b18d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
