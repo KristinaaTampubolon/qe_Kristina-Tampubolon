@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\MATERI KULIAH\Semester V\PPMPL\WEEK 10\ToolsQA\Cucumber_Selenium\Test Altera"/>
+			<item value="D:\MATERI KULIAH\SEMESTER VII\REPO ALTERRA\qe_Kristina-Tampubolon\18_Behaviour Driver Development\Praktikum"/>
+			<item value="D:\MATERI KULIAH\SEMESTER VII\REPO ALTERRA\qe_Kristina-Tampubolon\18_Behaviour Driver Development"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
