@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Get all orders</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>20db28a4-f875-484e-aa07-a038ada634f8</testCaseGuid>
+</TestCaseEntity>

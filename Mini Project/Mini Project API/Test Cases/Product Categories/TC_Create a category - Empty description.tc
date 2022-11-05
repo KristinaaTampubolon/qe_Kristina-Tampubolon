@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Create a category - Empty description</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6d03a84-1d48-4337-8f49-c5754d125188</testCaseGuid>
+</TestCaseEntity>

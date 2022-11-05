@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Create a new order - empty id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d922977-cb58-4b82-a6d0-f702bdc84ccb</testCaseGuid>
+</TestCaseEntity>
