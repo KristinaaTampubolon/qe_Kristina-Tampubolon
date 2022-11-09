@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pofil</name>
+   <tag></tag>
+   <elementGuidId>6ea5561e-8d59-4b70-9350-c50ba9e7144f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;app&quot;]/div/header/div/button[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;app&quot;]/div/header/div/button[2]/span</value>
+      <webElementGuid>d999754b-beba-4679-bebe-2dda5d6d0221</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

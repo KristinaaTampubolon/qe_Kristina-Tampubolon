@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Nama Lengkap</name>
+   <tag></tag>
+   <elementGuidId>4b5de7d6-d2fc-4cda-b750-b22a937785e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div/main/div/div/div/div[2]/form/div[1]/div/div[1]/div/input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='input-659']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#input-659</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div/main/div/div/div/div[2]/form/div[1]/div/div[1]/div/input</value>
+      <webElementGuid>cda9ec89-e73b-4d3c-b9df-b6cc10c2e034</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='input-659']</value>
+      <webElementGuid>5907391b-7d1c-46f4-a718-3396b11b4887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div[2]/form/div/div/div/div/input</value>
+      <webElementGuid>42396ffe-5d06-4e80-987c-68765f6a8613</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>03506703-2b51-4c1b-a46b-cb24dd066e1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'input-659' and @type = 'text']</value>
+      <webElementGuid>c2bb4fa8-f0fc-47bf-937b-afd16ce6ddc8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

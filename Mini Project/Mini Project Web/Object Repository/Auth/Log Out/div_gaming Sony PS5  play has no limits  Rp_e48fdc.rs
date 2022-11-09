@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_gaming Sony PS5  play has no limits  Rp_e48fdc</name>
+   <tag></tag>
+   <elementGuidId>e6c64c3a-0369-41ab-a7d5-e07c6b5b355b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-main__wrap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div[1]/main/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div[1]/main/div/div/div[2]/div/div</value>
+      <webElementGuid>d93e61a0-7b25-48d5-9944-65dbb85971c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div</value>
+      <webElementGuid>0e7a52ba-441c-49c0-b52e-331c0428d477</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AltaShop'])[1]/following::div[3]</value>
+      <webElementGuid>a959a834-b2d0-4e38-8561-15ab5443465d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div</value>
+      <webElementGuid>8aa8f47c-5137-42ae-affa-aecc0549a5d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'gaming Sony PS5  play has no limits   Rp 299DetailBeli' or . = 'gaming Sony PS5  play has no limits   Rp 299DetailBeli')]</value>
+      <webElementGuid>c99b411b-abb5-48e3-b505-5243c5f48bdc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Chart</name>
+   <tag></tag>
+   <elementGuidId>8acd7738-6d63-4516-8d9a-05c49a63c813</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;app&quot;]/div[1]/header/div/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;app&quot;]/div[1]/header/div/button[1]</value>
+      <webElementGuid>acbb12f2-c9f6-48b7-926d-3481ebdd0ef5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

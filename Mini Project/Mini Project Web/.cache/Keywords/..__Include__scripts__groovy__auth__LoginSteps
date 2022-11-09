@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "E08CB4E9A0051865D743798C780125CD",
+  "keywordClasses": [
+    {
+      "name": "auth.LoginSteps",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

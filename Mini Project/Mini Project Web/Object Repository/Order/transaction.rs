@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>transaction</name>
+   <tag></tag>
+   <elementGuidId>ce0ded21-f867-4542-9d81-c8a17a521ccf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div[1]/main/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div[1]/main/div/div/h1</value>
+      <webElementGuid>b0685aa6-a171-4171-a763-76670fbdee85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>#list-item-1506</value>
+      <webElementGuid>4e8de5a4-253e-4626-a891-ceeaebf8c6d2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

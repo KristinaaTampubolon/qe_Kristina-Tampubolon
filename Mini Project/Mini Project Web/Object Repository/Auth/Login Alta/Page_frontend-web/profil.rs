@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>profil</name>
+   <tag></tag>
+   <elementGuidId>9ab00620-da4b-49f5-95f2-4b679cf61f84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div[1]/header/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div[1]/header/div/button[2]</value>
+      <webElementGuid>dc833048-4740-4a47-8e6d-f4dd6abd0acf</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

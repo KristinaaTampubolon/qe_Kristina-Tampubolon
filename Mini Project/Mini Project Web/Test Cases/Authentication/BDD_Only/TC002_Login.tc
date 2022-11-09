@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7be7f6c-db8d-46ce-afe9-8d1bc28de356</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>23869f7a-6f2c-4cbb-ad12-91ba451e8b16</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c840d021-b07a-49e3-8744-eec8a3e01b3c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>23869f7a-6f2c-4cbb-ad12-91ba451e8b16</id>
+      <masked>false</masked>
+      <name>valueEmail</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c840d021-b07a-49e3-8744-eec8a3e01b3c</id>
+      <masked>false</masked>
+      <name>valuePassword</name>
+   </variable>
+</TestCaseEntity>

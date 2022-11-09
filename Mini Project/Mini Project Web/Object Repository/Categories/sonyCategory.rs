@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sonyCategory</name>
+   <tag></tag>
+   <elementGuidId>ac473fa2-7d1b-4672-90d0-9ad1e46b2b73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div[1]/main/div/div/div[2]/div/div/div/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div[1]/main/div/div/div[2]/div/div/div/div[1]</value>
+      <webElementGuid>2fd2ca6e-9223-4fb8-a6b5-49dc76fd3c36</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

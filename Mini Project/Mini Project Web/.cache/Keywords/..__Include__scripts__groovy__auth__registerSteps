@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "D07C31DE0C823D627B9443D078872BD3",
+  "keywordClasses": [
+    {
+      "name": "auth.RegisterSteps",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_transaction</name>
+   <tag></tag>
+   <elementGuidId>9d699665-c9c8-4d4a-8f0a-51da87249615</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div[2]/div/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div[2]/div/div[1]</value>
+      <webElementGuid>d558e2d0-e696-4615-9d22-fbad7f2d9727</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
